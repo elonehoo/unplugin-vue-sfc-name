@@ -1,7 +1,7 @@
 {
   "name": "unplugin-script-setup-name",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2-beta.0",
   "description": "Extending the vue script setup syntactic sugar",
   "license": "MIT",
   "homepage": "https://github.com/elonehoo/unplugin-scripts-setup-name#readme",
