@@ -6,6 +6,7 @@ import scriptSetupName from 'unplugin-script-setup-name/vite'
 export default defineConfig({
   plugins: [
     vue(),
+    // @ts-expect-error vite plugin error
     scriptSetupName(),
   ],
 })
