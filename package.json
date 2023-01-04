@@ -4,13 +4,13 @@
   "version": "0.0.2-beta.4",
   "description": "Extending the vue script setup syntactic sugar",
   "license": "MIT",
-  "homepage": "https://github.com/elonehoo/unplugin-scripts-setup-name#readme",
+  "homepage": "https://github.com/elonehoo/unplugin-vue-sfc-name#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elonehoo/unplugin-scripts-setup-name.git"
+    "url": "git+https://github.com/elonehoo/unplugin-vue-sfc-name.git"
   },
   "bugs": {
-    "url": "https://github.com/elonehoo/unplugin-scripts-setup-name/issues"
+    "url": "https://github.com/elonehoo/unplugin-vue-sfc-name/issues"
   },
   "keywords": [
     "unplugin",
