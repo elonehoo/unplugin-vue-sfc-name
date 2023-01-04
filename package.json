@@ -1,8 +1,8 @@
 {
   "name": "unplugin-vue-sfc-name",
   "type": "module",
-  "private":"true",
-  "version": "0.0.2-beta.1",
+  "private": "true",
+  "version": "0.0.2-beta.2",
   "description": "Extending the vue script setup syntactic sugar",
   "license": "MIT",
   "homepage": "https://github.com/elonehoo/unplugin-scripts-setup-name#readme",
