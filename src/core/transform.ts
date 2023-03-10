@@ -1,4 +1,4 @@
-import { basename, parse as pathParse } from 'path'
+import { basename, parse as pathParse } from 'node:path'
 import { compileScript, parse } from '@vue/compiler-sfc'
 import MagicString from 'magic-string'
 import type { Options } from '../types'
