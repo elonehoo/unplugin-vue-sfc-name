@@ -18,14 +18,14 @@ importers:
       rollup: ^3.19.1
       tsup: ^6.6.3
       typescript: ^4.9.5
-      unplugin: ^1.2.0
+      unplugin: ^1.3.0
       vite: ^4.1.4
       vitest: ^0.29.2
       webpack: ^5.76.1
     dependencies:
       '@vue/compiler-sfc': 3.2.47
       magic-string: 0.30.0
-      unplugin: 1.2.0
+      unplugin: 1.3.0
     devDependencies:
       '@antfu/eslint-config': 0.36.0_vgl77cfdswitgr47lm5swmv43m
       '@types/node': 18.15.0
@@ -3992,8 +3992,8 @@ packages:
       '@types/unist': 2.0.6
     dev: true
 
-  /unplugin/1.2.0:
-    resolution: {integrity: sha512-7lJXQY4CxOK4jZyVskZuuNBqBSOlxezKqBpfQEpH+Odk2Ban3moKAlvzs9rZuZoZp6/1FEhvY9TZXav2FRhaBg==}
+  /unplugin/1.3.0:
+    resolution: {integrity: sha512-l4Udjxg2+vCuKRgIA2T8fHd7UwKWaLizh7t+3C72zjnN0+ZS+odzATFenymOUgcGqG1dkCSYE34h9wBbMXrKrA==}
     dependencies:
       acorn: 8.8.2
       chokidar: 3.5.3
