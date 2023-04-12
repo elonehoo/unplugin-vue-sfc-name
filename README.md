@@ -33,6 +33,7 @@ npm i unplugin-vue-sfc-name
 ```ts
 // vite.config.ts
 import Starter from 'unplugin-vue-sfc-name/vite'
+
 export default defineConfig({
   plugins: [
     Starter({ /* options */ }),
@@ -50,6 +51,7 @@ Example: [`playground/`](./playground/)
 ```ts
 // rollup.config.js
 import Starter from 'unplugin-vue-sfc-name/rollup'
+
 export default {
   plugins: [
     Starter({ /* options */ }),
@@ -113,6 +115,7 @@ module.exports = {
 // esbuild.config.js
 import { build } from 'esbuild'
 import Starter from 'unplugin-vue-sfc-name/esbuild'
+
 build({
   plugins: [Starter()],
 })
