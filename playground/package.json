@@ -7,7 +7,7 @@
     "@vitejs/plugin-vue": "^4.1.0",
     "typescript": "^5.0.4",
     "unplugin-vue-sfc-name": "workspace:*",
-    "vite": "^4.2.1",
+    "vite": "^4.3.1",
     "vue": "^3.2.47"
   }
 }
